@@ -2,3 +2,6 @@ native-messaging-portal.patch
 no-exceptions.patch
 riscv:webrtc.patch
 riscv:disable-jit.patch
+ppc64:skia-vsx.patch
+ppc64:libwebp-vsx.patch
+ppc64:jit-backend.patch
