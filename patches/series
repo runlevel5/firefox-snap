@@ -5,3 +5,4 @@ riscv:disable-jit.patch
 ppc64:skia-vsx.patch
 ppc64:libwebp-vsx.patch
 ppc64:jit-backend.patch
+ppc64:nss-gcm-clang-as.patch
